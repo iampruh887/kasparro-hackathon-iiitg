@@ -1,0 +1,23 @@
+{
+  "name": "ai-representation-optimizer",
+  "version": "1.0.0",
+  "description": "Merchant-facing AI representation diagnostic tool for Shopify stores",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "lint:check": "node -e \"console.log('No linter configured yet.')\""
+  },
+  "keywords": [
+    "shopify",
+    "ai",
+    "merchant-tools",
+    "diagnostics"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

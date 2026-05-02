@@ -1,0 +1,77 @@
+{
+  "storeProfile": {
+    "storeName": "LumaLeaf Skincare",
+    "category": "skincare",
+    "region": "US"
+  },
+  "desiredRepresentation": {
+    "narrative": "LumaLeaf should be perceived as a science-backed skincare brand with transparent ingredients and low irritation risk.",
+    "targetAudience": "Sensitive-skin shoppers aged 24-40",
+    "requiredTrustSignals": ["verified reviews", "money-back guarantee", "dermatologist tested"],
+    "primaryConversionGoal": "Improve AI-assisted recommendation inclusion for moisturizers and serums"
+  },
+  "products": [
+    {
+      "title": "Barrier Repair Moisturizer",
+      "description": "Our best moisturizer.",
+      "price": "29.00",
+      "ingredients": "Ceramides, squalane, glycerin",
+      "usage": "Apply morning and night"
+    },
+    {
+      "title": "Vitamin C Serum",
+      "description": "Brightening serum with stabilized vitamin C, ferulic acid, and clear guidance on layering with sunscreen for daily use.",
+      "price": "34.00",
+      "ingredients": "Vitamin C, ferulic acid, hyaluronic acid",
+      "usage": "Use in morning before moisturizer"
+    },
+    {
+      "title": "Gentle Cleanser",
+      "description": "Low-foam cleanser for sensitive skin.",
+      "price": "22.00",
+      "ingredients": "Amino acids, panthenol"
+    }
+  ],
+  "policies": [
+    {
+      "type": "shipping",
+      "content": "Orders ship in 3-5 business days. During peak periods, shipping may take 10-14 business days."
+    },
+    {
+      "type": "returns",
+      "content": "Final sale on discounted items. We also offer a 30 day return on all products."
+    },
+    {
+      "type": "privacy",
+      "content": "We protect customer data and do not sell personal information."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How long does shipping take?",
+      "answer": "Usually a few days."
+    },
+    {
+      "question": "Can I return products?",
+      "answer": "Please see returns policy."
+    },
+    {
+      "question": "Are your formulas fragrance free?",
+      "answer": "Most are fragrance free and marked on product pages."
+    }
+  ],
+  "reviews": [
+    { "rating": 4, "text": "Helped my skin barrier quickly." },
+    { "rating": 5, "text": "No irritation at all." },
+    { "rating": 3, "text": "Good but packaging can improve." },
+    { "rating": 4, "text": "Nice texture and finish." },
+    { "rating": 4, "text": "Works well under sunscreen." }
+  ],
+  "trustSignals": ["money-back guarantee", "secure checkout"],
+  "structuredData": {
+    "schemaOrgProduct": true,
+    "schemaOrgOrganization": false,
+    "openGraph": true,
+    "jsonLdBreadcrumbs": false
+  }
+}
